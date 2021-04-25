@@ -1,0 +1,8 @@
+12345;Ali Ayhan;Cardiology;Medicana
+87954;Jale Tunc;ENT;Bayindir
+15487;Mehmet Keskin;Optometry;Hacettepe Hospital
+56987;Melis Koc;ENT;TOBB ETU
+36985;Irem Basar;Gastroenterology;Ankara Hospital
+47896;Ayla Guner;Cardiology;Medicana
+74532;Elif Som;Optometry;Ankara Hospital
+63215;Veysel Karakus;Optometry;Medicana

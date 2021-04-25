@@ -1,0 +1,15 @@
+hayley;5;3.0;istanbul
+albeni;13;2.5;ankara
+twix;13;3.75;ankara
+damak;13;6.75;izmir
+damak;11;6.75;ankara
+nutella;23;21.75;ankara
+biskrem;15;4.0;izmir
+metro;7;2.75;istanbul
+toblerone;7;16.75;ankara
+biskrem;5;4.0;ankara
+hayley;4;3.0;ankara
+hayley;13;5.25;izmir
+albeni;12;2.5;istanbul
+nutella;33;21.75;izmir
+biskrem;5;5.25;istanbul
