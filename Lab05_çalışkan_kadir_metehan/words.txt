@@ -1,0 +1,8 @@
+friend 6
+book 2
+the 4
+in 7
+is 3
+A 1
+life 8
+best 5

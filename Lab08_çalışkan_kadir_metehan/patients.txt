@@ -1,0 +1,8 @@
+Su Kara;20201211;08:30;Irem Basar;Dematology;False
+Lale Kaleci;20201211;11:00;Ayla Güner;Cardiology;True;40
+Mahmut Pembe;20201217;15:30;Elif Som;Optometry;True;90
+Oya Ak;20201217;10:30;Veysel Karakuş;Cardiology;True;80
+Ece Top;20201210;10:15;Ali Ayhan;Dentistry;True;70
+Ali Uzun;20210106;12:15;Jale Tunç;Neurology;False
+Emel Kaya;20210206;15:30;Mehmet Keskin;Optometry;False
+Hale Sert;20201208;15:30;Melis Koç;Neurology;True;90
